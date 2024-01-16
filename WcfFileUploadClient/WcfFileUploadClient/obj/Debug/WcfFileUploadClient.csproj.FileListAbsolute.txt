@@ -1,0 +1,7 @@
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\obj\Debug\WcfFileUploadClient.csproj.AssemblyReference.cache
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\obj\Debug\WcfFileUploadClient.csproj.CoreCompileInputs.cache
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\bin\Debug\WcfFileUploadClient.exe.config
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\bin\Debug\WcfFileUploadClient.exe
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\bin\Debug\WcfFileUploadClient.pdb
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\obj\Debug\WcfFileUploadClient.exe
+C:\Interview Projects\WcfFileUploader\WcfFileUploadClient\WcfFileUploadClient\obj\Debug\WcfFileUploadClient.pdb
